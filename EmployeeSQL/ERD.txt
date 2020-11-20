@@ -28,3 +28,8 @@ salaries
 -
 emp_no INTEGER FK >- employees.emp_no
 salary INTEGER
+
+titles
+-
+title_id PK VARCHAR
+title VARCHAR
