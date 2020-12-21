@@ -6,7 +6,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 The objective of this homework is to design tables to hold data in the CSVs, import the CSVs into a SQL database, and answer various questions about the data. 
 
-With a complete database, we answer the following questions
+## With a complete database, we answer the following questions
 
 * List the following details of each employee: employee number, last name, first name, sex, and salary.
 
